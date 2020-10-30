@@ -1,0 +1,21 @@
+name: 2020 Steering Committee Election
+details: The eligible voter process can be found in the [2020 elections folder](/events/elections/2020/README.md).
+history:
+- 2020-08-02: List of eligible voters derived by taking an export of Devstats contributions provided by Lukasz Gryglicki, combined with Org Members list taken from github.com/kubernetes/org via git clone
+- 2020-08-03: 68 voters who were excluded due to upper casing mismatches added to voters file
+- 2020-08-10: 2 voters who filed exception requests added
+- 2020-08-22: 84 additional voters added per [Issue 5059](https://github.com/kubernetes/community/issues/5059)
+eligible_voters:
+- 27149chen
+- 44past4
+- aaroniscode
+- aaron-prindle
+- adelina-t
+- adirio
+- adisky
+- vpickard
+- riaankl
+- msedzins
+- kumarvin123
+- pancernik
+- hkamel
