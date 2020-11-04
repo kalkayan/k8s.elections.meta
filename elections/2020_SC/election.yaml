@@ -1,20 +1,13 @@
 name: 2020 Kubernetes Steering Committee Election
 organization: Kubernetes
-description: 'Welcome to the 2020 annual Kubernetes Steering Committee election.
-  More information, including candidates, links to candidate bios, deadlines and procedures, can be found <a href="https://github.com/kubernetes/community/tree/master/events/elections/2020">on the 2020 election  page.</a>
-  <br><br>
-  All eligible <a href="https://github.com/kubernetes/community/blob/master/events/elections/2020/voters.md">voters</a> for this election should have received individual ballots by email.  Please do not use a ballot that was forwarded to you by another contributor, as that will invalidate your vote.
-  <br><br>
-  The Steering Committee Election is a preference election.  Please arrange the candidates in the order you would prefer them.  Three members of the committee will be elected this year.  PLEASE NOTE: "No opinion" is also a voting option if you do not feel comfortable ranking every single candidate.
-  <br><br>
-  To report issues with this election, need a replacement ballot, or ask questions, email <a href="mailto:%65%6C%65%63%74%69%6F%6E%40%6B%75%62%65%72%6E%65%74%65%73%2E%69%6F">the Election Officials.</a>'
+description:
 start_datetime: 2020-10-01 00:00:00
 end_datetime: 2020-10-21 00:00:00
 no_winners: 3
 condorcet_method:
 allow_no_opinion: True
 delete_after: True
-show_fields:
+show_candidate_fields:
   - Affiliation
   - Github
   - Twitter
