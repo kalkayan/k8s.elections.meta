@@ -1,0 +1,28 @@
+name: 2020 Steering Committee Election
+details: Eligibility is determined by Kubernetes contributions for the year.  See the main 2020
+  election page for more details on who is eligible and voting schedules.  If you are not listed
+  as an eligible voter and should be, request an exception.
+exception_form: https://www.surveymonkey.com/r/k8s-sc-election-2020
+history:
+- 2020-08-02: List of eligible voters derived by taking an export of Devstats contributions provided by Lukasz Gryglicki, combined with Org Members list taken from github.com/kubernetes/org via git clone
+- 2020-08-03: 68 voters who were excluded due to upper casing mismatches added to voters file
+- 2020-08-10: 2 voters who filed exception requests added
+- 2020-08-22: 84 additional voters added per Issue 5059: https://github.com/kubernetes/community/issues/5059
+eligible_voters:
+- 27149chen
+- 44past4
+- aaroniscode
+- aaron-prindle
+- adelina-t
+- adirio
+- adisky
+- vpickard
+- riaankl
+- msedzins
+- kumarvin123
+- pancernik
+- hkamel
+- jberkus
+- jdumars
+- markyjackson-taulia
+- SergeyKanzhelev

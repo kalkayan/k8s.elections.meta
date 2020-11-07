@@ -13,4 +13,4 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit:
 - tempora ducimus repellat voluptatibus doloribus saepe
 - fugiat nulla mollitia vitae obcaecati eum, pariatur aspernatur Facilis!
 
-Natus eligendi magni doloremque facere [lorem](https://google.com)
+Natus eligendi magni doloremque facere [link](https://google.com)

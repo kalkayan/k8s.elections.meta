@@ -1,0 +1,19 @@
+name: 2021 Kubernetes Steering Committee Election
+organization: Kubernetes
+description:
+start_datetime: 2021-10-01 00:00:00
+end_datetime: 2021-10-21 00:00:00
+no_winners: 3
+condorcet_method:
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - Affiliation
+  - Github
+  - Twitter
+election_officers:
+  - kalkayan
+  - jberkus
+  - jdumars
+  - markyjackson-taulia
+  - SergeyKanzhelev
