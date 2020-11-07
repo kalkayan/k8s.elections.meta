@@ -2,10 +2,10 @@
 name: Bob Killen
 ID: mrbobbytables
 info:
-- GitHub: [@mrbobbytables](https://github.com/mrbobbytables)
-- Twitter: [@mrbobbytabls](https://twitter.com/mrbobbytables)
-- Slack: `@mrbobbytables`
-- Website: [https://mrbobbytabl.es](https://mrbobbytabl.es)
+- GitHub: https://github.com/mrbobbytables
+- Twitter: https://twitter.com/mrbobbytables
+- Slack: mrbobbytables
+- Website: https://mrbobbytabl.es
 - Affiliation: Google
 -------------------------------------------------------------
 
