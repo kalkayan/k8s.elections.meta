@@ -13,3 +13,4 @@ you do not feel comfortable ranking every single candidate.
 
 To report issues with this election, need a replacement ballot, or ask
 questions, email [the Election Officials](mailto:%65%6C%65%63%74%69%6F%6E%40%6B%75%62%65%72%6E%65%74%65%73%2E%69%6F).
+

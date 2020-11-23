@@ -1,0 +1,18 @@
+name: 2019 Kubernetes Steering Committee Election
+organization: Kubernetes
+description:
+start_datetime: 2019-10-01 00:00:00
+end_datetime: 2019-10-21 00:00:00
+no_winners: 4
+condorcet_method:
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - Affiliation
+  - Github
+  - Twitter
+election_officers:
+  - jberkus
+  - jdumars
+  - markyjackson-taulia
+  - SergeyKanzhelev
