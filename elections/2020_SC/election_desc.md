@@ -2,7 +2,9 @@
 
 All active k8s members are encouraged to vote to make sure that k8s steering
 commitee represents the community. Voting eligibility is defined in [TODO](link
-to standing membership requirement). Check your eligibility [here](TODO: is there a link?)
+to standing membership requirement). This page displays your eligibility.
+If you are not eligible, you can request an exception [here](link-to-exception-form)
+
 
 The Steering Committee Election is a preference election. Please arrange the
 candidates in the order you would prefer them.  Three members of the committee
