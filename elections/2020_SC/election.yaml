@@ -1,6 +1,5 @@
 name: 2020 Kubernetes Steering Committee Election
 organization: Kubernetes
-description:
 start_datetime: 2020-10-01 00:00:00
 end_datetime: 2020-10-21 00:00:00
 no_winners: 3
@@ -16,3 +15,7 @@ election_officers:
   - jdumars
   - markyjackson-taulia
   - SergeyKanzhelev
+eligibility: Eligibility is determined by Kubernetes contributions for the year.  See the main 2020
+  election page for more details on who is eligible and voting schedules.  If you are not listed
+  as an eligible voter and should be, request an exception.
+exception_form: https://www.surveymonkey.com/r/k8s-sc-election-2020
