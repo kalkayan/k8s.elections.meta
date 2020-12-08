@@ -1,8 +1,8 @@
-name: Kubernetes Election December 2020 
+name: Kubernetes Election December - 3 (Completed) 
 organization: Kubernetes
 description:
 start_datetime: 2020-12-01 00:00:00
-end_datetime: 2020-12-21 00:00:00
+end_datetime: 2020-12-1 00:10:00
 no_winners: 3
 condorcet_method:
 allow_no_opinion: True
@@ -14,6 +14,7 @@ show_candidate_fields:
 election_officers:
   - jberkus
   - jdumars
+  - kalkayan
   - markyjackson-taulia
   - SergeyKanzhelev
 eligibility: Eligibility is determined by Kubernetes contributions for the year.  See the main 2020
