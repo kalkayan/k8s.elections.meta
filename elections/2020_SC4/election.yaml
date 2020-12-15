@@ -1,0 +1,23 @@
+name: Single Winner - no tie 
+organization: Kubernetes
+description:
+start_datetime: 2020-12-01 00:00:00
+end_datetime: 2020-12-10 00:10:00
+no_winners: 3
+condorcet_method:
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - Affiliation
+  - Github
+  - Twitter
+election_officers:
+  - jberkus
+  - jdumars
+  - kalkayan
+  - markyjackson-taulia
+  - SergeyKanzhelev
+eligibility: Eligibility is determined by Kubernetes contributions for the year.  See the main 2020
+  election page for more details on who is eligible and voting schedules.  If you are not listed
+  as an eligible voter and should be, request an exception.
+exception_form: https://www.surveymonkey.com/r/k8s-sc-election-2020
