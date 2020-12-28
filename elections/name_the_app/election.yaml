@@ -1,0 +1,15 @@
+name: Select The Name of the Application
+organization: CommunityBridge
+start_datetime: 2020-12-28 00:00:00
+end_datetime: 2021-01-03 00:00:00
+no_winners: 1
+condorcet_method:
+allow_no_opinion: True
+delete_after: False
+show_candidate_fields:
+  - Language
+election_officers:
+  - kalkayan
+  - jberkus
+eligibility: Contributors to the elections software project are eligible.
+exception_form: https://www.surveymonkey.com/r/k8s-sc-election-2020
